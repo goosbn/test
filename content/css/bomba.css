@@ -13,7 +13,7 @@ a {
     text-decoration-style: solid !important;
     text-decoration-color: inherit !important;
     text-decoration-thickness: auto !important;
-    color: #e696ef;
+    color: #2ed296;
 }
 
 footer {
@@ -21,7 +21,7 @@ footer {
 }
 
 code {
-    color: #e696ef;
+    color: #2ed296;
     font-family: 'Comic Sans', cursive;
     background-color: #0f0f0f;
 }
@@ -42,7 +42,7 @@ code {
 
 #title {
     font-size: 18pt;
-    color: #e696ef;
+    color: #2ed296;
 }
 
 #content {
